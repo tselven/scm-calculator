@@ -1,0 +1,13 @@
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csprojResolveAssemblyReference.cache
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.exe
+E:\UCJ\2025\SCM Exams\01\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.pdb
+E:\22ICT28\NVQ_6_Semi_1\CM\CM_Calculator\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+E:\22ICT28\NVQ_6_Semi_1\CM\CM_Calculator\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.exe
+E:\22ICT28\NVQ_6_Semi_1\CM\CM_Calculator\Grade Calculator\Grade Calculator\bin\Debug\Grade Calculator.pdb
+E:\22ICT28\NVQ_6_Semi_1\CM\CM_Calculator\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csproj.AssemblyReference.cache
+E:\22ICT28\NVQ_6_Semi_1\CM\CM_Calculator\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.csproj.CoreCompileInputs.cache
+E:\22ICT28\NVQ_6_Semi_1\CM\CM_Calculator\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.exe
+E:\22ICT28\NVQ_6_Semi_1\CM\CM_Calculator\Grade Calculator\Grade Calculator\obj\Debug\Grade Calculator.pdb
