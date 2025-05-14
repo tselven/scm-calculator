@@ -14,7 +14,14 @@ namespace Grade_Calculator
             string name = Console.ReadLine();
 
             Console.Write("Enter Marks (out of 100): ");
-            int marks = Convert.ToInt32(Console.ReadLine());
+            int marks;
+            while (!int.TryParse(Console.ReadLine(), out marks))
+            {
+                Console.WriteLine("Invalid input. Please enter only numbers.");
+                Console.Write("Enter marks: ");
+            }
+
+
 
             string grade = "F";
             if (marks > 75)
@@ -25,9 +32,20 @@ namespace Grade_Calculator
                 grade = "C";
             else if (marks > 45)
                 grade = "S";
+            else if (marks <= 45)
+                grade = "F";
 
-            Console.WriteLine("Student: " + name + ", Grade: " + grade);
+                Console.WriteLine("Student: " + name + ", Grade: " + grade);
             Console.ReadLine();
+
+            bool IsNumeric(string value)
+            {
+                foreach (char c in value)
+                {
+                    if (!char.IsDigit(c)) return false;
+                }
+                return !string.IsNullOrWhiteSpace(value);
+            }
         }
     }
 }
